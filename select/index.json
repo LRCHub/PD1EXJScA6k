@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Notion",
+  "base_artist": "The Rare Occasions",
+  "createdAt": "2026-03-19T10:45:33.633397Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brain Cell (Notion remix)",
+      "artist": "CunninLynguists feat. Masta Ace",
+      "has_synced": false,
+      "path": "select/01_Brain_Cell_(Notion_remix)_CunninLynguists_feat._Masta_Ace.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brain Cell (Notion Remix)",
+      "artist": "CunninLynguists",
+      "has_synced": false,
+      "path": "select/02_Brain_Cell_(Notion_Remix)_CunninLynguists.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Notion",
+      "artist": "Kings of Leon",
+      "has_synced": true,
+      "path": "select/03_Notion_Kings_of_Leon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Notion of Love",
+      "artist": "Bonfire",
+      "has_synced": false,
+      "path": "select/04_Notion_of_Love_Bonfire.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Primitive Notion",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/05_Primitive_Notion_New_Order.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Notion",
+      "artist": "Coal Chamber",
+      "has_synced": true,
+      "path": "select/06_Notion_Coal_Chamber.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Are You In Love With A Notion?",
+      "artist": "Courteeners",
+      "has_synced": false,
+      "path": "select/07_Are_You_In_Love_With_A_Notion_Courteeners.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Are You In Love With a Notion?",
+      "artist": "The Courteeners",
+      "has_synced": true,
+      "path": "select/08_Are_You_In_Love_With_a_Notion_The_Courteeners.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Perpetual Notion",
+      "artist": "The Agonist",
+      "has_synced": true,
+      "path": "select/09_Perpetual_Notion_The_Agonist.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Notion, I Can't Shake...",
+      "artist": "September Malevolence",
+      "has_synced": false,
+      "path": "select/10_A_Notion,_I_Can't_Shake..._September_Malevolence.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Foggy Notion",
+      "artist": "The Velvet Underground",
+      "has_synced": false,
+      "path": "select/11_Foggy_Notion_The_Velvet_Underground.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Foggy Notion (Original 1969 Mix)",
+      "artist": "The Velvet Underground",
+      "has_synced": false,
+      "path": "select/12_Foggy_Notion_(Original_1969_Mix)_The_Velvet_Underground.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Foggy Notion",
+      "artist": "Melissa Auf der Maur",
+      "has_synced": true,
+      "path": "select/13_My_Foggy_Notion_Melissa_Auf_der_Maur.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Just A Notion",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/14_Just_A_Notion_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just A Notion",
+      "artist": "Abba",
+      "has_synced": true,
+      "path": "select/15_Just_A_Notion_Abba.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Notion",
+      "artist": "Kings Of Leon",
+      "has_synced": true,
+      "path": "select/16_Notion_Kings_Of_Leon.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sometimes A Great Notion",
+      "artist": "John Mellencamp",
+      "has_synced": true,
+      "path": "select/17_Sometimes_A_Great_Notion_John_Mellencamp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Notion",
+      "artist": "The Rare Occasions",
+      "has_synced": false,
+      "path": "select/pl_01_Notion_The_Rare_Occasions.txt"
+    }
+  ]
+}
